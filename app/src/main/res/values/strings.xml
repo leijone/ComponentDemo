@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZUJI</string>
+
+    <string name="main_bottom_tab1">模块1</string>
+    <string name="main_bottom_tab2">模块2</string>
+    <string name="main_bottom_tab3">模块3</string>
+    <string name="main_bottom_tab4">模块4</string>
+</resources>
